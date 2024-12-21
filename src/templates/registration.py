@@ -1,1 +1,1 @@
-print('Registration Page')
+print(' Registration Page')
